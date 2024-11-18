@@ -1,0 +1,2 @@
+def questao_12():
+    
